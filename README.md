@@ -104,6 +104,8 @@ Table of Contents
 - [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
 - [Cornell CS 1110 Introduction to Computing using Python fall 2020, by Walker White](https://www.cs.cornell.edu/courses/cs1110/2020fa/lessons/) ([Lecture Videos](https://vod.video.cornell.edu/channel/CS+1110+Fall+2020/179890731))
 - [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
+- [CS 105 - Introduction to Computers - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
+- [Code in Place - Introduction to Programming (Karel & Python) - Stanford University](https://www.youtube.com/@stanfordcodeinplace/playlists) ([Course](https://codeinplace.stanford.edu/course))
 
 ------------------------------
 
@@ -1041,6 +1043,9 @@ Table of Contents
 - [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
 - [Languages & Translators - UCLouvain LINFO2132](https://norswap.com/compilers/)
 - [Compiler Design by Sorav Bansal](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
+- [Compiler Construction (Summer 2024) - Prof. Peter Thiemann - University of Freiburg](https://proglang.github.io/teaching/24ss/compiler-construction.html) ([Video archive](https://archive.informatik.uni-freiburg.de/courses/proglang/2024-SS-Compilers/))
+- [CS 8803 O08 - Compilers: Theory and Practice - Georgia Tech OMSCS Open Courseware](https://edstem.org/us/join/yYkBGt)
+- [CSE 231 - Compiler Construction (Spring 2024) - Ranjit Jhala - UC San Diego](https://ucsd-cse231.github.io/sp24/) ([Podcasts/Videos](https://podcast.ucsd.edu/watch/sp24/cse231_a00))
 - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Columbia IEOR E4004 Introduction to Operations Research: Deterministic Models summer 2005, by Jay Sethuraman](https://www.youtube.com/playlist?list=PLIygTcviGPKCVGq8cQ9MCBEm5wVXGsDpw)
 - [Columbia IEOR E4106 Introduction to Operations Research: Stochastic Models spring 2005, by Ward Whitt](https://www.youtube.com/playlist?list=PLIygTcviGPKDJMIOWQcnSSzKDFOG_dF4r)
@@ -1537,6 +1542,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Design Thinking for Digital Engineering (SS 2018) - Dr. Julia von Thienen - HPI](https://www.tele-task.de/series/1206/)
 - [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Georgia Tech OMSCS Open Courseware - 40+ graduate CS courses with lecture videos (AI, ML, Systems, Security, etc.) - Georgia Tech](https://sites.gatech.edu/omscsopencourseware/)
 - [University of Crete, Computer Science video lectures (mostly Greek language lectures, very few 100% English-speaking courses). Very popular CS destination for European Erasmus students](https://opencourses.uoc.gr/courses/course/index.php?categoryid=28)
 - [Stanford EE274 I Data Compression: Theory and Applications I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 - [Probabilistic Methods - University of Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
